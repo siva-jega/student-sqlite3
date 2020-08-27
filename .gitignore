@@ -30,6 +30,8 @@
 *.exe
 *.out
 *.app
+main
+test.dn
 
 # IDE
 vscode/*
